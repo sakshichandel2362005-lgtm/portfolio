@@ -95,6 +95,12 @@
   .journey-section .timeline-card li {
     font-size: 14px;
   }
+
+ .skill-icon.blue img {
+  filter: none;
+  opacity: 1;
+  mix-blend-mode:normal;
+ }
 }
 
 
